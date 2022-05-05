@@ -7,11 +7,11 @@
 	</StyleItemCategoryDef>
 
 	<HairDef>
-		<defName>O21_Zamaza</defName>
+		<defName>Zamaza</defName>
 		<label>Zamaza</label>
 		<styleGender>Female</styleGender>
 		<texPath>Zamaza/Hair/Zamaza</texPath>
-		<category>O21_Zamaza</category>
+		<category>Zamaza</category>
 		<styleTags>
 			<li>Zamaza</li>
 		</styleTags>
