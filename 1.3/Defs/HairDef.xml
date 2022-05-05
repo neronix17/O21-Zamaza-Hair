@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+
+	<StyleItemCategoryDef>
+		<defName>Zamaza</defName>
+		<label>Zamaza</label>
+	</StyleItemCategoryDef>
+
+	<HairDef>
+		<defName>O21_Zamaza</defName>
+		<label>Zamaza</label>
+		<styleGender>Female</styleGender>
+		<texPath>Zamaza/Hair/Zamaza</texPath>
+		<category>O21_Zamaza</category>
+		<styleTags>
+			<li>Zamaza</li>
+		</styleTags>
+	</HairDef>
+
+</Defs>
